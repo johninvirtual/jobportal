@@ -1,0 +1,21 @@
+# Job Portal
+
+## demo app with svelte and go
+
+### Frontend
+
+- svelte
+- picocss
+
+### Backend
+
+- go
+- gofiber
+- gorm
+
+### Build and run
+
+- cd ui && npm run build
+- cd ..
+- go build
+- run the executable (by default server runs in :3000)
